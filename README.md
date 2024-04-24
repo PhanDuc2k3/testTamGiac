@@ -1,5 +1,5 @@
-#Bai tap test tam giác
+# Bai tap test tam giác
 
-##Sinh viên:
-###Phan Minh Đức
-###Nguyễn Thái Tuân
+## Sinh viên:
+### Phan Minh Đức
+### Nguyễn Thái Tuân
